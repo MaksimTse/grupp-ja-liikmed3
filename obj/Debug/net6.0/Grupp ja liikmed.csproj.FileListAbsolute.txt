@@ -1,0 +1,15 @@
+C:\Users\Kasutaja\Source\Repos\Grupp-ja-liikmed\Grupp ja liikmed\bin\Debug\net6.0\Grupp ja liikmed.exe
+C:\Users\Kasutaja\Source\Repos\Grupp-ja-liikmed\Grupp ja liikmed\bin\Debug\net6.0\Grupp ja liikmed.deps.json
+C:\Users\Kasutaja\Source\Repos\Grupp-ja-liikmed\Grupp ja liikmed\bin\Debug\net6.0\Grupp ja liikmed.runtimeconfig.json
+C:\Users\Kasutaja\Source\Repos\Grupp-ja-liikmed\Grupp ja liikmed\bin\Debug\net6.0\Grupp ja liikmed.dll
+C:\Users\Kasutaja\Source\Repos\Grupp-ja-liikmed\Grupp ja liikmed\bin\Debug\net6.0\Grupp ja liikmed.pdb
+C:\Users\Kasutaja\Source\Repos\Grupp-ja-liikmed\Grupp ja liikmed\obj\Debug\net6.0\Grupp ja liikmed.csproj.AssemblyReference.cache
+C:\Users\Kasutaja\Source\Repos\Grupp-ja-liikmed\Grupp ja liikmed\obj\Debug\net6.0\Grupp ja liikmed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasutaja\Source\Repos\Grupp-ja-liikmed\Grupp ja liikmed\obj\Debug\net6.0\Grupp ja liikmed.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\Source\Repos\Grupp-ja-liikmed\Grupp ja liikmed\obj\Debug\net6.0\Grupp ja liikmed.AssemblyInfo.cs
+C:\Users\Kasutaja\Source\Repos\Grupp-ja-liikmed\Grupp ja liikmed\obj\Debug\net6.0\Grupp ja liikmed.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\Source\Repos\Grupp-ja-liikmed\Grupp ja liikmed\obj\Debug\net6.0\Grupp ja liikmed.dll
+C:\Users\Kasutaja\Source\Repos\Grupp-ja-liikmed\Grupp ja liikmed\obj\Debug\net6.0\refint\Grupp ja liikmed.dll
+C:\Users\Kasutaja\Source\Repos\Grupp-ja-liikmed\Grupp ja liikmed\obj\Debug\net6.0\Grupp ja liikmed.pdb
+C:\Users\Kasutaja\Source\Repos\Grupp-ja-liikmed\Grupp ja liikmed\obj\Debug\net6.0\Grupp ja liikmed.genruntimeconfig.cache
+C:\Users\Kasutaja\Source\Repos\Grupp-ja-liikmed\Grupp ja liikmed\obj\Debug\net6.0\ref\Grupp ja liikmed.dll
